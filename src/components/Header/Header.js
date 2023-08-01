@@ -27,7 +27,7 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping worldwide';
+  const bannerMessage = 'Come Shop for 2023 Navratri Outfit';
   const searchSuggestions = [
     'Oversize sweaters',
     'Lama Pajamas',
