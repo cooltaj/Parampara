@@ -105,12 +105,12 @@ const IndexPage = () => {
       />
 
       {/* Blog Grid */}
-      <div className={styles.blogsContainer}>
+<!--      <div className={styles.blogsContainer}>
         <Container size={'large'}>
           <Title name={'Journal'} subtitle={'Notes on life and style'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
-      </div>
+      </div>-->
 
       {/* Promotion */}
       <div className={styles.sustainableContainer}>
