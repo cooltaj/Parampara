@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Parampara \n A British brand since 1860`}
+          title={`Parampara \n An Indian brand since 2023`}
         />
 
         <div className={styles.navContainer}>

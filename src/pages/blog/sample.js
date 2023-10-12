@@ -18,15 +18,8 @@ const SamplePage = (props) => {
               alt={''}
             >
               <div className={styles.content}>
-                <p className={styles.excerpt}>
-                  London-based floral designer Flora Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
-                </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Parampara) collects
+                  Georgia limited liability company (The Parampara) collects
                   personal information that you voluntarily provide when
                   applying or registering for an account with The Upside or
                   making a purchase on The Upside website; www.theupside.com
